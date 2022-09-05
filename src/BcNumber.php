@@ -12,7 +12,7 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes;
+namespace Wredmedia\DataTypes;
 
 use Comely\DataTypes\BcMath\BaseConvert;
 use Comely\DataTypes\BcMath\BcMath;
