@@ -12,14 +12,14 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Strings;
+namespace Wredmedia\DataTypes\Strings;
 
-use Comely\DataTypes\Buffer\Base16;
-use Comely\DataTypes\DataTypes;
+use Wredmedia\DataTypes\Buffer\Base16;
+use Wredmedia\DataTypes\DataTypes;
 
 /**
  * Class ASCII
- * @package Comely\DataTypes\Strings
+ * @package Wredmedia\DataTypes\Strings
  */
 class ASCII
 {
