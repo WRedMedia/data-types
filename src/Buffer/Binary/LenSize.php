@@ -12,13 +12,13 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer\Binary;
+namespace Wredmedia\DataTypes\Buffer\Binary;
 
-use Comely\DataTypes\Buffer\Binary;
+use Wredmedia\DataTypes\Buffer\Binary;
 
 /**
  * Class LenSize
- * @package Comely\DataTypes\Buffer\Binary
+ * @package Wredmedia\DataTypes\Buffer\Binary
  */
 class LenSize
 {
