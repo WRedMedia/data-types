@@ -12,15 +12,15 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer;
+namespace Wredmedia\DataTypes\Buffer;
 
-use Comely\DataTypes\Buffer\Binary\ByteReader;
-use Comely\DataTypes\Buffer\Binary\Digest;
-use Comely\DataTypes\Buffer\Binary\LenSize;
+use Wredmedia\DataTypes\Buffer\Binary\ByteReader;
+use Wredmedia\DataTypes\Buffer\Binary\Digest;
+use Wredmedia\DataTypes\Buffer\Binary\LenSize;
 
 /**
  * Class Binary
- * @package Comely\DataTypes\Buffer
+ * @package Wredmedia\DataTypes\Buffer
  */
 class Binary extends AbstractBuffer
 {
