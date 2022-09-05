@@ -12,13 +12,13 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer;
+namespace Wredmedia\DataTypes\Buffer;
 
-use Comely\DataTypes\DataTypes;
+use Wredmedia\DataTypes\DataTypes;
 
 /**
  * Class Base64
- * @package Comely\DataTypes\Buffer
+ * @package Wredmedia\DataTypes\Buffer
  */
 class Base64 extends AbstractBuffer
 {
