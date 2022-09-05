@@ -12,14 +12,14 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer\Binary;
+namespace Wredmedia\DataTypes\Buffer\Binary;
 
-use Comely\DataTypes\Buffer\Base16;
-use Comely\DataTypes\Buffer\Binary;
+use Wredmedia\DataTypes\Buffer\Base16;
+use Wredmedia\DataTypes\Buffer\Binary;
 
 /**
  * Class Digest
- * @package Comely\DataTypes\Buffer\Binary
+ * @package Wredmedia\DataTypes\Buffer\Binary
  */
 class Digest
 {
