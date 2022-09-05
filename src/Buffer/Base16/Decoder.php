@@ -12,18 +12,18 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer\Base16;
+namespace Wredmedia\DataTypes\Buffer\Base16;
 
-use Comely\DataTypes\BcMath\BcMath;
-use Comely\DataTypes\BcNumber;
-use Comely\DataTypes\Buffer\Base16;
-use Comely\DataTypes\Buffer\Binary;
-use Comely\DataTypes\Buffer\Bitwise;
-use Comely\DataTypes\Strings\ASCII;
+use Wredmedia\DataTypes\BcMath\BcMath;
+use Wredmedia\DataTypes\BcNumber;
+use Wredmedia\DataTypes\Buffer\Base16;
+use Wredmedia\DataTypes\Buffer\Binary;
+use Wredmedia\DataTypes\Buffer\Bitwise;
+use Wredmedia\DataTypes\Strings\ASCII;
 
 /**
  * Class Decoder
- * @package Comely\DataTypes\Buffer\Base16
+ * @package Wredmedia\DataTypes\Buffer\Base16
  */
 class Decoder
 {
