@@ -12,11 +12,11 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer;
+namespace Wredmedia\DataTypes\Buffer;
 
 /**
  * Class AbstractBuffer
- * @package Comely\DataTypes\Buffer
+ * @package Wredmedia\DataTypes\Buffer
  * @property-read int $sizeInBytes
  * @property-read int $length
  */
