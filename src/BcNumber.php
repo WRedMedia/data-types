@@ -14,10 +14,10 @@ declare(strict_types=1);
 
 namespace Wredmedia\DataTypes;
 
-use Comely\DataTypes\BcMath\BaseConvert;
-use Comely\DataTypes\BcMath\BcMath;
-use Comely\DataTypes\Buffer\Base16;
-use Comely\DataTypes\Buffer\Bitwise;
+use Wredmedia\DataTypes\BcMath\BaseConvert;
+use Wredmedia\DataTypes\BcMath\BcMath;
+use Wredmedia\DataTypes\Buffer\Base16;
+use Wredmedia\DataTypes\Buffer\Bitwise;
 
 /**
  * Class BcNumber
