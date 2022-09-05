@@ -12,11 +12,11 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes;
+namespace Wredmedia\DataTypes;
 
 /**
  * Class Integers
- * @package Comely\DataTypes
+ * @package Wredmedia\DataTypes
  */
 class Integers
 {
