@@ -12,13 +12,13 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\BcMath;
+namespace Wredmedia\DataTypes\BcMath;
 
-use Comely\DataTypes\BcNumber;
+use Wredmedia\DataTypes\BcNumber;
 
 /**
  * Class BcMath
- * @package Comely\DataTypes\BcMath
+ * @package Wredmedia\DataTypes\BcMath
  */
 class BcMath
 {
