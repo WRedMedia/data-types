@@ -12,14 +12,14 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer;
+namespace Wredmedia\DataTypes\Buffer;
 
-use Comely\DataTypes\Buffer\Base16\Decoder;
-use Comely\DataTypes\DataTypes;
+use Wredmedia\DataTypes\Buffer\Base16\Decoder;
+use Wredmedia\DataTypes\DataTypes;
 
 /**
  * Class Base16
- * @package Comely\DataTypes\Buffer
+ * @package Wredmedia\DataTypes\Buffer
  */
 class Base16 extends AbstractBuffer
 {
