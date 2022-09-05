@@ -12,14 +12,14 @@
 
 declare(strict_types=1);
 
-namespace Comely\DataTypes\Buffer;
+namespace Wredmedia\DataTypes\Buffer;
 
-use Comely\DataTypes\BcMath\BcMath;
-use Comely\DataTypes\DataTypes;
+use Wredmedia\DataTypes\BcMath\BcMath;
+use Wredmedia\DataTypes\DataTypes;
 
 /**
  * Class Bitwise
- * @package Comely\DataTypes\Buffer
+ * @package Wredmedia\DataTypes\Buffer
  */
 class Bitwise extends AbstractBuffer
 {
